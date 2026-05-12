@@ -44,7 +44,7 @@
 
 ---
 
-[![passive eyes — moneo](https://raw.githubusercontent.com/ryangbd/ryangbd/main/player.svg)](https://open.spotify.com/track/4e6fIqMzFRiV3abVBH5Bay)
+[![passive eyes — moneo](https://raw.githubusercontent.com/ryangbd/ryangbd/main/player.svg?sanitize=true)](https://open.spotify.com/track/4e6fIqMzFRiV3abVBH5Bay)
 
 ---
 

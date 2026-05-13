@@ -19,7 +19,7 @@
 
 **Back-end & Desenvolvimento**
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,php)](https://skillicons.dev)
 
 **Web & Front-end**
 

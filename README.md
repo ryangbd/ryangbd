@@ -17,21 +17,10 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-**Back-end & Desenvolvimento**
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,nodejs)](https://skillicons.dev)
-
-**Web & Front-end**
-
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
-
-**Banco de Dados**
-
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-**Ferramentas & Design**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,photoshop,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=photoshop)](https://skillicons.dev)
 
 ---
 

@@ -8,7 +8,6 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 Desenvolvendo projetos com **Java, Python, JavaScript e React**
-- 🗄️ Trabalhando com bancos de dados **MySQL**
 - 🎨 Habilidades em design com **Photoshop**
 - 📍 São Paulo, Brasil
 - 🚀 Sempre aprendendo e buscando novos desafios

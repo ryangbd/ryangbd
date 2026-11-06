@@ -47,7 +47,7 @@
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-nunes-555ab3250/)
+💼 **LinkedIn** · [Ryan Nunes](https://www.linkedin.com/in/ryan-nunes-555ab3250/)  
 
 ✉️ **E-mail** · `ryansantana276@gmail.com`
 

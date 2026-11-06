@@ -48,10 +48,11 @@
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-nunes-555ab3250/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryansantana276@gmail.com)
+
+✉️ **E-mail** · `ryansantana276@gmail.com`
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryangbd&color=0d1117&style=flat-square&label=Visitantes" alt="Visitantes"/>
+  <img src="https://komarev.com/ghpvc/?username=ryangbd&color=0d1117&style=flat-square&label=Visualiza%C3%A7%C3%B5es" alt="Visitantes"/>
 </div>
